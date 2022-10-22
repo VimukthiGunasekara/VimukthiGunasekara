@@ -1,8 +1,8 @@
 # Hi, I'm Vimukthi Gunasekara 👋🏾 👩🏾‍💻
 
 <img src="cover.png">
-Hello Worls! I'm web developer leveraging background in psychology to provide unique perspectives on how end-users interact with websites and software platforms.
-I'm holding <a><b>BS.c in Information Technology</b></a> and doing a <a><b>Certificate in Full Stack Web Development</b></a> from the University of Toronto.Innovative problem-solver who is passionate about developing apps with a focus on mobile-first design and development.Creativity, teamwork, and ability to develop projects from concept to completion are strong points.
+Hello World! </br>
+I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. I'm hold a <b>BS.c in Information Technology</b> from the <b>University of Rajarata</b> and a <b> Certificate in Full Stack Web Development</b> (Pending) from the <b>University of Toronto </b>.Innovative problem-solver who is passionate about developing apps with a focus on mobile-first design and development.Creativity, teamwork, and ability to develop projects from concept to completion are strong points.
 Furthermore, I'm an experienced mobile application developer <a href="https://play.google.com/store/apps/dev?id=8946113378972656642&hl=en">Google Play Store 📱 </a>
 
 ## Find me around the web 🌎: <img align="left" width="150" height="150" src="Icon.gif">
